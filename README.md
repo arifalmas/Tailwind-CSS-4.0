@@ -10,7 +10,7 @@ Tailwind CSS 4.0: Everything you need to know in one place
   🟢 Separation of PostCSS plugin and CLI tools. </br>
   🟢 No default border color, and rings changed to 1px by default.
 
-A New Engine, Built for Speed:
+# A New Engine, Built for Speed: </br>
 The newest version of Tailwind CSS, version 4.0, has something called the Oxide engine. Think of it like putting a faster engine in a car - it makes everything run quicker. This engine is made with parts from Rust, a programming language known for speed, and works with Lightning CSS to make building your website faster.
 
 Some of the speed boosts you'll notice include:
