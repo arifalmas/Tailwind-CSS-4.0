@@ -18,3 +18,5 @@ Some of the speed boosts you'll notice include:
   🟢 It's quicker to get rid of unused styles. </br>
   🟢 It can do more work at once because it uses all the cores in your computer's processor. </br>
   🟢 When you make changes, it updates the styles faster.
+
+By using Rust and improving how it's built, Tailwind CSS 4.0 is all about making your work smoother and quicker.
