@@ -1,4 +1,4 @@
-<img title="" src="tailwindV4-arifalmas.png" alt="Tailwind CSS Banner" >
+<img title="" src="tailwindV4-arif.png" alt="Tailwind CSS Banner" >
 
 # Tailwind-CSS-4.0
 Tailwind CSS 4.0: Everything you need to know in one place 
