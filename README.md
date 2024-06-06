@@ -41,4 +41,8 @@ With Tailwind CSS 4.0, you don't have to mess around with setting up your CSS to
   🟢 color-mix for opacity - Lets you adjust how see-through colors are with less fuss. </br>
   🟢 Container queries - Allows your design to adapt better to different screen sizes.
 
+  And there's more new stuff on the way that'll make designing for the web even better.
+
+  
+
   
