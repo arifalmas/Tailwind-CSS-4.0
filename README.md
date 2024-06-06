@@ -43,6 +43,7 @@ With Tailwind CSS 4.0, you don't have to mess around with setting up your CSS to
 
   And there's more new stuff on the way that'll make designing for the web even better.
 
-  
+# Composable Variants:
 
+Now, you can mix and match style variations without any limits, like this:
   
