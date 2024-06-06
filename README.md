@@ -29,3 +29,6 @@ With Tailwind CSS 4.0, you don't have to mess around with setting up your CSS to
   🟢 Automatically adding browser-specific prefixes to your CSS so it works everywhere.</br>
   🟢 Letting you nest styles within styles, which can make your code cleaner. </br>
   🟢 Making sure your CSS works on older browsers too.
+
+  This makes working with Tailwind CSS easier because it does a lot of the setup work for you.
+  
