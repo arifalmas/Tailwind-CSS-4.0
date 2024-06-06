@@ -20,3 +20,12 @@ Some of the speed boosts you'll notice include:
   🟢 When you make changes, it updates the styles faster.
 
 By using Rust and improving how it's built, Tailwind CSS 4.0 is all about making your work smoother and quicker.
+
+# Unified Toolchain:
+
+With Tailwind CSS 4.0, you don't have to mess around with setting up your CSS tools separately. It's got Lightning CSS built right in, which takes care of things like:
+
+  🟢 Handling @import so you can bring in styles from other files easily. </br>
+  🟢 Automatically adding browser-specific prefixes to your CSS so it works everywhere.</br>
+  🟢 Letting you nest styles within styles, which can make your code cleaner. </br>
+  🟢 Making sure your CSS works on older browsers too.
