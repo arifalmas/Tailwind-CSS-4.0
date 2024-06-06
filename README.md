@@ -36,9 +36,9 @@ With Tailwind CSS 4.0, you don't have to mess around with setting up your CSS to
 
   Tailwind CSS 4.0 is made to work with the latest web design features:
 
-  🟢 <b> Native cascade layers <b/> - Helps avoid issues where styles conflict.</br>
-  🟢 Automatically adding browser-specific prefixes to your CSS so it works everywhere.</br>
-  🟢 Letting you nest styles within styles, which can make your code cleaner. </br>
-  🟢 Making sure your CSS works on older browsers too.
+  🟢 Native cascade layers- Helps avoid issues where styles conflict.</br>
+  🟢 Explicitly defined custom properties - Makes it easier to change how things look when they transition.</br>
+  🟢 color-mix for opacity - Lets you adjust how see-through colors are with less fuss. </br>
+  🟢 Container queries - Allows your design to adapt better to different screen sizes.
 
   
