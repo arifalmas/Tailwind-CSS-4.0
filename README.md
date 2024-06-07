@@ -48,3 +48,6 @@ With Tailwind CSS 4.0, you don't have to mess around with setting up your CSS to
 Now, you can mix and match style variations without any limits, like this:
 
 # Zero-configuration Content Detection:
+
+Tailwind CSS 4.0 can now figure out what parts of your website need its styles automatically. It uses smart guessing and checks what you're building as you go. This means less setup for you. But if you need to, you can still tell it exactly what to look at.
+
