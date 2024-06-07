@@ -60,4 +60,5 @@ The new version prefers using CSS for setting things up. This means:
   🟢 It uses CSS variables instead of relying on JavaScript. </br>
 
   This shift towards CSS means you'll rely less on JavaScript for making your site look how you want.
-  
+
+# Key Changes from Previous Versions:
