@@ -58,3 +58,6 @@ The new version prefers using CSS for setting things up. This means:
   🟢 You can use @import to bring in styles.</br>
   🟢 @theme lets you change the theme with CSS.</br>
   🟢 It uses CSS variables instead of relying on JavaScript. </br>
+
+  This shift towards CSS means you'll rely less on JavaScript for making your site look how you want.
+  
