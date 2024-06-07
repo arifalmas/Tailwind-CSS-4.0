@@ -54,3 +54,7 @@ Tailwind CSS 4.0 can now figure out what parts of your website need its styles a
 # CSS-first Configuration:
 
 The new version prefers using CSS for setting things up. This means:
+
+  🟢 You can use @import to bring in styles.</br>
+  🟢 @theme lets you change the theme with CSS.</br>
+  🟢 It uses CSS variables instead of relying on JavaScript. </br>
