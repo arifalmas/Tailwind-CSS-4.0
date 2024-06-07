@@ -51,3 +51,6 @@ Now, you can mix and match style variations without any limits, like this:
 
 Tailwind CSS 4.0 can now figure out what parts of your website need its styles automatically. It uses smart guessing and checks what you're building as you go. This means less setup for you. But if you need to, you can still tell it exactly what to look at.
 
+# CSS-first Configuration:
+
+The new version prefers using CSS for setting things up. This means:
