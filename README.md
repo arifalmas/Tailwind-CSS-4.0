@@ -46,4 +46,5 @@ With Tailwind CSS 4.0, you don't have to mess around with setting up your CSS to
 # Composable Variants:
 
 Now, you can mix and match style variations without any limits, like this:
-  
+
+# Zero-configuration Content Detection:
