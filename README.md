@@ -62,3 +62,6 @@ The new version prefers using CSS for setting things up. This means:
   This shift towards CSS means you'll rely less on JavaScript for making your site look how you want.
 
 # Key Changes from Previous Versions:
+
+Tailwind CSS 4.0 is made to work with the latest web design features:
+
