@@ -67,4 +67,5 @@ Tailwind CSS 4.0 introduces some notable changes compared to the previous 3.0 ve
 
 Removed Deprecated Utilities:
 
+Tailwind CSS 4.0 removes several deprecated utilities that were scheduled for deletion, including:
 
