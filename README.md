@@ -72,3 +72,5 @@ Tailwind CSS 4.0 removes several deprecated utilities that were scheduled for de
  🟢 text-opacity-* - Replaced by text-{color}/*</br>
  🟢 flex-grow-* - Replaced by grow-*</br>
  🟢 decoration-slice - Replaced by box-decoration-slice </br>
+
+Removing these utilities simplifies the framework and encourages migration to newer replacements.
