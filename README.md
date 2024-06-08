@@ -64,3 +64,7 @@ The new version prefers using CSS for setting things up. This means:
 # Key Changes from Previous Versions:
 
 Tailwind CSS 4.0 introduces some notable changes compared to the previous 3.0 version:
+
+Removed Deprecated Utilities:
+
+
