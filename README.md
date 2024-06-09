@@ -79,3 +79,5 @@ Removing these utilities simplifies the framework and encourages migration to ne
 
 The PostCSS plugin and CLI tools are now separate packages instead of being bundled in the main tailwindcss package. They must be installed separately:
 
+ 🟢 @tailwindcss/postcss for the PostCSS plugin </br>
+ 🟢 @tailwindcss/cli for the Tailwind CLI tool</br>
