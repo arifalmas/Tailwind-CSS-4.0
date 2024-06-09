@@ -81,3 +81,5 @@ The PostCSS plugin and CLI tools are now separate packages instead of being bund
 
  🟢 @tailwindcss/postcss for the PostCSS plugin </br>
  🟢 @tailwindcss/cli for the Tailwind CLI tool</br>
+
+ This change allows more flexibility for users who may not need both tools.
