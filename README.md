@@ -74,3 +74,8 @@ Tailwind CSS 4.0 removes several deprecated utilities that were scheduled for de
  🟢 decoration-slice - Replaced by box-decoration-slice </br>
 
 Removing these utilities simplifies the framework and encourages migration to newer replacements.
+
+# PostCSS Plugin and CLI Now Separate:
+
+The PostCSS plugin and CLI tools are now separate packages instead of being bundled in the main tailwindcss package. They must be installed separately:
+
