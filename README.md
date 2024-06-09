@@ -83,3 +83,5 @@ The PostCSS plugin and CLI tools are now separate packages instead of being bund
  🟢 @tailwindcss/cli for the Tailwind CLI tool</br>
 
  This change allows more flexibility for users who may not need both tools.
+
+# No Default Border Color:
