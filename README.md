@@ -87,3 +87,6 @@ The PostCSS plugin and CLI tools are now separate packages instead of being bund
 # No Default Border Color:
 
 The border utility no longer defaults to gray-200. Instead it uses currentColor like native CSS. This prevents accidentally introducing incorrect gray shades when using custom color palettes.
+
+# Rings Changed to 1px by Default:
+
