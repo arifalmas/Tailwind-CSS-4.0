@@ -90,3 +90,4 @@ The border utility no longer defaults to gray-200. Instead it uses currentColor 
 
 # Rings Changed to 1px by Default:
 
+The ring utility used to default to a 3px blue ring. Now it defaults to a 1px ring using currentColor to be more consistent with using ring as an alternative border, and outline for focus rings specifically.
