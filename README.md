@@ -99,3 +99,5 @@ Some other minor changes were made under the hood, though they likely won't dire
 Overall Tailwind CSS 4.0 aims to provide a faster and more flexible framework while simplifying outdated utilities. Review the 4.0 release notes for full details.
 
 # Practical Examples:
+
+Tailwind CSS 4.0 lets you change themes and plugins using CSS instead of JavaScript. Here's how you can do it:
