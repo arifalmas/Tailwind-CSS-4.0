@@ -97,3 +97,5 @@ The ring utility used to default to a 3px blue ring. Now it defaults to a 1px ri
 Some other minor changes were made under the hood, though they likely won't directly impact most users. If any unexpected behavior occurs, check Tailwind's documentation and reach out to the community for assistance. 
 
 Overall Tailwind CSS 4.0 aims to provide a faster and more flexible framework while simplifying outdated utilities. Review the 4.0 release notes for full details.
+
+# Practical Examples:
