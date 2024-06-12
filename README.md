@@ -104,6 +104,8 @@ Tailwind CSS 4.0 lets you change themes and plugins using CSS instead of JavaScr
 
 To set up a plugin prefix and a default border size, you can write:
 
+Using layers for different styles:
+
 # Leveraging New Features:
 
 Tailwind CSS 4.0 comes with some cool new tools for making your website look great:
