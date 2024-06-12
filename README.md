@@ -103,3 +103,5 @@ Overall Tailwind CSS 4.0 aims to provide a faster and more flexible framework wh
 Tailwind CSS 4.0 lets you change themes and plugins using CSS instead of JavaScript. Here's how you can do it:
 
 To set up a plugin prefix and a default border size, you can write:
+
+# Leveraging New Features:
