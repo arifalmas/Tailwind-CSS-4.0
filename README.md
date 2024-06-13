@@ -110,3 +110,4 @@ Using layers for different styles:
 
 Tailwind CSS 4.0 comes with some cool new tools for making your website look great:
 
+Using layers for different styles:
