@@ -111,3 +111,5 @@ Using layers for different styles:
 Tailwind CSS 4.0 comes with some cool new tools for making your website look great:
 
 Using layers for different styles:
+
+With layers, the styles for .btn and .text-shadow won't mix up.
