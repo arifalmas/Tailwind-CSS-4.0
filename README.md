@@ -119,3 +119,5 @@ With layers, the styles for .btn and .text-shadow won't mix up.
 This makes the sidebar smaller when the screen is wider than 800px.
 
 Mixing colors for cool effects:
+
+This mixes red and white to create a light pink background that looks a bit see-through.
