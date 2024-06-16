@@ -121,3 +121,5 @@ This makes the sidebar smaller when the screen is wider than 800px.
 Mixing colors for cool effects:
 
 This mixes red and white to create a light pink background that looks a bit see-through.
+
+These examples show how you can use Tailwind CSS 4.0's new features to make your site look even better.
