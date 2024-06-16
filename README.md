@@ -117,3 +117,5 @@ With layers, the styles for .btn and .text-shadow won't mix up.
 # Making layouts adjust with container queries:
 
 This makes the sidebar smaller when the screen is wider than 800px.
+
+Mixing colors for cool effects:
