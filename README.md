@@ -126,6 +126,5 @@ These examples show how you can use Tailwind CSS 4.0's new features to make your
 
 Follow for more:
 
-Facebook:
 
 
